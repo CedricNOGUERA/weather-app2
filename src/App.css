@@ -18,6 +18,10 @@ body {
 .day_after {
   font-size: 0.75rem;
 }
+.mini {
+  width: 16px !important;
+  height: 16px !important;
+}
 h2 > p {
   font-size: 0.8rem;
 }
